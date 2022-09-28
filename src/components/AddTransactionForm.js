@@ -13,6 +13,7 @@ function AddTransactionForm() {
   const handleSubmit  = e => {
 
     e.preventDefault()
+    
     const updatedForm = {
       date: form.date,
       description: form.description,
