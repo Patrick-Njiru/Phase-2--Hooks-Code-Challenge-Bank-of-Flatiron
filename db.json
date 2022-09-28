@@ -83,6 +83,27 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2022-09-15",
+      "description": "Work out",
+      "category": "Fitness",
+      "amount": "0.14",
+      "id": 13
+    },
+    {
+      "date": "2022-09-28",
+      "description": "Watch Scrimba videos on Fetching",
+      "category": "Education",
+      "amount": 0,
+      "id": 14
+    },
+    {
+      "date": "2022-09-28",
+      "description": "Buy laptop charger",
+      "category": "Electronics",
+      "amount": "1500",
+      "id": 15
     }
   ]
 }
